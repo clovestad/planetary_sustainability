@@ -2,7 +2,6 @@
 This project is inspired by the need for fictional data.
 the goal of the project is to fabricate a large scale dataset using python to then perform lite EDA and visuals on.
 The dataset is generated with the following columns:
-
     - **Solar System**: Name of the solar system.
     - **Planet**: Name of the planet within the solar system.
     - **Distance (light-years)**: Distance of the planet from Earth in light-years.
@@ -18,9 +17,9 @@ The dataset is generated with the following columns:
 - Travel time in lightyears(much faster than anything avaliable today) is also fictional for the purpose of modeling data since anything slower would take far to long to travel to any surrounding fictional solar system.
 
 - for purposes of this ficticious project, a planets viability to sustain life WILL have the following criteria:
-    Distance: Under 1000 light-years.
-    Atmospheric Oxygen Content: Above 0.5.
-    Soil Fertility: Above 0.5.
-    Median Seasonal Temperatures: Between 0°F and 100°F.
-    Availability of Potable Water: Yes.
-    Suitability for Life: No extreme conditions.
+    - Distance: Under 1000 light-years.
+    - Atmospheric Oxygen Content: Above 0.5.
+    - Soil Fertility: Above 0.5.
+    - Median Seasonal Temperatures: Between 0°F and 100°F.
+    - Availability of Potable Water: Yes.
+    - Suitability for Life: No extreme conditions.
