@@ -1,5 +1,7 @@
 # planetary_sustainability
 This project is inspired by the need for fictional data.
+
+
 the goal of the project is to fabricate a large scale dataset using python to then perform lite EDA and visuals on.
 The dataset is generated with the following columns:
     - **Solar System**: Name of the solar system.
